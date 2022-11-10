@@ -1,4 +1,4 @@
-# Report by Add Team Member Names
+# Report by Griffin, Jordan, Makell 
 
 ## Step 1: Getting Started and `teleop`
 
