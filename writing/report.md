@@ -8,6 +8,11 @@ We looked at the repository that the other group left us and followed those step
 
 TODO: Describe the application/task that you decided to pursue. Include **all** steps you took to implement the task, including all non-technical and technical details. Please include references (links are okay) to all resources you have used.
 
+The chosen task for this assignment is the block picking up task. This task requires the robotic arm to pick up three blocks of varying sizes to assess the dexterity of the machine.
+
+Steps To Implement the Task:
+* 
+
 ## Outcomes
 
 TODO: Demonstrate your completed application/task with visual representations of your working solution (pictures or videos of each experiment's scenario or a simulated map). Describe your observations of your working robot in a specific application.
