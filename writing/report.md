@@ -8,7 +8,7 @@ We looked at the repository that the other group left us and followed those step
 
 TODO: Describe the application/task that you decided to pursue. Include **all** steps you took to implement the task, including all non-technical and technical details. Please include references (links are okay) to all resources you have used.
 
-The chosen task for this assignment is the block picking up task. This task requires the robotic arm to pick up three blocks of varying sizes to assess the dexterity of the machine.
+The chosen task for this assignment is the block picking up task. This task requires the robotic arm to pick up three blocks of varying sizes to assess the dexterity of the machine. The edits to the task are that we have a set of the three blocks on the left of the machine, being held by the white holder, and an empty white holder to the right of the robot. We will have the robot pick up each individual block and put it in the parallel white holder. 
 
 Steps To Implement the Task:
 * 
