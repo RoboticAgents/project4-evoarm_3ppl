@@ -2,11 +2,14 @@
 
 ## Step 1: Getting Started and `teleop`
 
-TODO: Describe the steps you took to turn on and get your robot set up, and the steps you took to successfully use `teleop` on the robot.
+We looked at the repository that the other group left us and followed those steps. First, we registered for an account at Evodyne academy. We submitted that and then went to the next step. We then powered up our robot. We plugged it in and the green light went on. Then we connected the robot to our computer by going to Evoarm.co. Once it connected, we turned on the camera and started doing simple commands like moving the arm on its X and Y axis.
 
 ## Step 2: Implementation Details
 
-TODO: Describe the application/task that you decided to pursue. Include **all** steps you took to implement the task, including all non-technical and technical details. Please include references (links are okay) to all resources you have used.
+The chosen task for this assignment is the block picking up task. This task requires the robotic arm to pick up three blocks of varying sizes to assess the dexterity of the machine. The edits to the task are that we have a set of the three blocks on the left of the machine, being held by the white holder, and an empty white holder to the right of the robot. We will have the robot pick up each individual block and put it in the parallel white holder. 
+
+Steps To Implement the Task:
+* 
 
 ## Outcomes
 
